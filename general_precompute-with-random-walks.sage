@@ -1,4 +1,3 @@
-# Simple coverage experiment: N=1000, m=20 walks, t=20 steps each
 import random, hashlib
 from math import ceil
 
